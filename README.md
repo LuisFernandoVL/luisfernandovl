@@ -1,4 +1,4 @@
-## Olá! Sou o Luis e aqui estão alguns dos meus projetos, fique à vontade para conhecê-los!!
+## Olá! Sou o Luis e aqui estão alguns dos meus projetos!
 <div align="center">
   <a href="https://github.com/luisfernandovl">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=luisfernandovl&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
