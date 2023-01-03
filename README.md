@@ -1,8 +1,8 @@
 ## Olá mundo! Aqui estão alguns dos meus projetos, fique à vontade para conhecê-los!
 <div align="center">
   <a href="https://github.com/luisfernandovl">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=luisfernandovl&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&custom_title=Luis&nbsp;Fernando&nbsp;V.&nbsp;Leal&icon_color=#781fff&title_color=#781fff"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luisfernandovl&layout=compact&langs_count=10&theme=midnight-purple&hide_title=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=luisfernandovl&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&custom_title=Luis&nbsp;Fernando&nbsp;V.&nbsp;Leal&icon_color=#781fff"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luisfernandovl&layout=compact&theme=midnight-purple&hide_title=true"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Luis-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
